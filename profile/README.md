@@ -30,7 +30,21 @@
 - **AI 학습 콘텐츠**: 퍼즐·게임형 학습을 통해 아이들이 창의력·집중력·문제 해결력을 기를 수 있도록 지원
 - **실시간 얼굴·행동 인식**: 카메라를 활용해 아이들의 참여도·진행 상황을 자동으로 추적
 
+
 ## 화면 구성
+
+| 쫑글 탐험대 |
+|:--:|
+| ![Image](/uploads/20ea9aa9ffe53b6dd17b3b76265fbaa4/쫑글탐험대.gif) | 
+
+| 쫑글 O/X 대모험 | 
+|:--:|
+| ![Image](/uploads/5e9223ecb16930da8d40bb86893ab22f/쫑글OX대모험.gif) | 
+
+| 마이페이지 |
+|:--:|
+| ![Image](/uploads/090765d1c886d4166affd1ee7a8acb96/쫑글_마이페이지.gif) | 
+
 
 ## Stacks
 
@@ -48,12 +62,16 @@
 ![KotlinCoroutines](https://img.shields.io/badge/KotlinCoroutines-5468F1?style=flat&logo=KotlinCoroutines&logoColor=white)
 
 ### Database
+![MariaDB](https://img.shields.io/badge/MariaDB-002F43?style=flat&logo=MariaDB&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-A41E11?style=flat&logo=Redis&logoColor=white)
 
 ### Infra
 ![AWS](https://img.shields.io/badge/AWS-333664?style=flat&logo=aws&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI/CD-E34124?style=flat&logo=Gitlab&logoColor=white)
 
 ### Communication
+![GitLab](https://img.shields.io/badge/GitLab-E34124?style=flat&logo=Gitlab&logoColor=white)
+![Mattermost](https://img.shields.io/badge/Mattermost-284077?style=flat&logo=Mattermost&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5765F2?style=flat&logo=Discord&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)
 

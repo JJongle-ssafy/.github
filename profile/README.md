@@ -35,15 +35,15 @@
 
 | 쫑글 탐험대 |
 |:--:|
-| ![Image](/uploads/20ea9aa9ffe53b6dd17b3b76265fbaa4/쫑글탐험대.gif) | 
+| ![Image](https://github.com/user-attachments/assets/e1bdc90a-2eac-4a13-b92c-356e782ac31d) | 
 
 | 쫑글 O/X 대모험 | 
 |:--:|
-| ![Image](/uploads/5e9223ecb16930da8d40bb86893ab22f/쫑글OX대모험.gif) | 
+| ![Image]() | 
 
 | 마이페이지 |
 |:--:|
-| ![Image](/uploads/090765d1c886d4166affd1ee7a8acb96/쫑글_마이페이지.gif) | 
+| ![Image]() | 
 
 
 ## Stacks

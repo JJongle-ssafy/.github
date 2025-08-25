@@ -77,3 +77,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)
 
 ## Repository
+- [쫑글 Backend 바로가기](https://github.com/JJongle-ssafy/JJongle-Backend)
+- [쫑글 Mobile 바로가기](https://github.com/JJongle-ssafy/JJongle-Android)
+
+## 결과
